@@ -1,0 +1,45 @@
+{
+    "main": {
+      "name":"Ziad Osama",
+      "occupation":"Technical Team Lead / Systems Analyst",
+      "description":"description",
+      "image":"profilepic.jpg",
+      "icon":"zo.jpg",
+      "background":"0N4B.mp4",
+      "backgroundm":"0N4B.webm",
+      "email": "ziadosama@aucegypt.edu",
+      "phone": "+20-100-585-1669",
+      "address":{
+        "city":"Cairo",
+        "state":"Egypt"
+      },
+      "website": "http://ziadosama.github.io",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/ziad-abdel-ghany-813229100/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/ziadosama/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/ziadosama",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Canadian Wanderlust",
+          "category":"My Travel Blog for my post-university travels",
+          "image":"canadian-wanderlust.jpg",
+          "url":"https://www.canadianwanderlust.com"
+        }
+      ]
+    }
+  }
